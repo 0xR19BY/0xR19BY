@@ -1,7 +1,7 @@
 ```bash
 $> whoami
 	0xR19BY
-$> cat /root/me.txt
+$> cat /root/about_me.rs
 ```
 ```rust
 #[derive(Debug)]
@@ -21,8 +21,8 @@ struct TechCommunities {
 
 fn main() {
     let user = UserProfile {
-        code: vec!["Python", "Rust", "Lua"],
-        tools: vec!["SIEM", "SOAR", "WireShark", "Burp Suite", "Arch Linux", "and more!"],
+        code: vec!["Rust", "Python", "Lua"],
+        tools: vec!["SIEM", "SOAR", "WireShark", "Burp Suite", "Arch Linux", "and way more!"],
         work: vec!["L2 Security Analyst", "Threat Hunter", "Detection Engineer"],
         tech_communities: TechCommunities {
             member: "Hack The Box Academy",
