@@ -25,8 +25,8 @@ fn main() {
         tools: vec!["SIEM", "SOAR", "WireShark", "Burp Suite", "Arch Linux", "and way more!"],
         work: vec!["L2 Security Analyst", "Threat Hunter", "Detection Engineer"],
         tech_communities: TechCommunities {
-            member: "Hack The Box Academy",
-            studying: "Certified Bug Bounty Hunter (CBBH)",
+            member: "OffSec",
+            studying: "Offensive Security Certified Professional",
         },
         challenge: "Currently immersed in the field of webapp pentesting.",
     };
